@@ -1,18 +1,28 @@
 body {
-    background-color: #EAF6F6;
-}
-
-hr {
-    border-style: dotted none none none;
-    border-color: gray;
-    border-width: 5px;
-    width: 3%;
+    margin: 0;
+    text-align: center;
 }
 
 h1 {
-    color: #66BFBF;
+    margin: 0;
 }
 
-h3 {
-    color: #66BFBF
+.top-container {
+    background-color: #E4F9F5
+}
+
+.middle-container {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+
+.bottom-container {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+
+.bottom-cloud {
+    position: absolute;
 }
